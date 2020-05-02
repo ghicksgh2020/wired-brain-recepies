@@ -1,2 +1,2 @@
-# wired-brain-recepies
-wired-brain-recepies
+# wired-brain-recipes
+wired-brain-recipes
